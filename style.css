@@ -1,0 +1,13 @@
+body {
+
+    text-align: center;
+    background-color:cornflowerblue;
+}
+
+#enviarInformação {
+
+    border-radius: 20%;
+    background-color: crimson;
+    color: black;
+
+}
